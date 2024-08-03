@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "GMTbuTOTjXNMOHeGrzHH9uOV6Q92eHij6rcJkkfJx1s232V7EkeIoGHf0JgUfpyBfTMwNglt1a3ByQSU7nfzxw==",
+  "success": true,
+  "projectFilePath": "E:\\BasicAuthentication\\BasicAuthentication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iRepair\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\iRepair\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\iRepair\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\iRepair\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\iRepair\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\iRepair\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
